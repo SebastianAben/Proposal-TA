@@ -1,0 +1,21 @@
+# File hasil compile LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.equ
+*.fdb_latexmk
+*.fls
+*.loa
+*.lof
+*.log
+*.lol
+*.lot
+*.out
+*.run.xml
+*.toc
+*.xdv
+*.synctex.gz
+
+# File sistem macOS
+.DS_Store
